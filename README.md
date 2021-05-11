@@ -5,7 +5,7 @@ Heroku free hosting on https://maven-version-badger.herokuapp.com
 
 ## How to Use
 
-1. Get artofact url (ex. gson)
+1. Get artofact url (ex. com.google.code.gson.gson)
 ```
 https://repo1.maven.org/maven2/com/google/code/gson/gson/
 ```
