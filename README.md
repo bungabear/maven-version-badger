@@ -10,7 +10,7 @@ Heroku free hosting on https://maven-version-badger.herokuapp.com
 https://repo1.maven.org/maven2/com/google/code/gson/gson/
 ```
 
-2. Add the url
+2. Concatinate the url
 ```
 https://maven-version-badger.herokuapp.com/?url=https://repo1.maven.org/maven2/com/google/code/gson/gson/
 ```
