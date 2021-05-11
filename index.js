@@ -3,7 +3,7 @@ const xml2js = require('xml2js');
 const axios = require('axios');
 const openBadge = require('openbadge');
 const app = express();
-const PORT = process.env.PORT | 80;
+const PORT = process.env.PORT || 80;
 
 app.get('/', async function (req, res) {
     let url = req.query['url'];
